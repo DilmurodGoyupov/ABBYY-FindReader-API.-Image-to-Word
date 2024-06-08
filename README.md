@@ -1,4 +1,6 @@
-# <center> ![logo](https://raw.githubusercontent.com/DilmurodGoyupov/ABBYY-FindReader-API.-Image-to-Word/master/resource/ABBYY.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DilmurodGoyupov/ABBYY-FindReader-API.-Image-to-Word/master/resource/ABBYY.jpg" />
+</p>
 
 # <center> ABBYY FindReader API-dan foydalangan holda Rasmni wordga o'tkazamiz 
 

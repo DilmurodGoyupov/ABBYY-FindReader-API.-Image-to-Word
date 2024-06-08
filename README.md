@@ -7,7 +7,7 @@ ____
 
 
 <p align="center">
-  <img src=rasm" />
+  <img src="https://raw.githubusercontent.com/DilmurodGoyupov/ABBYY-FindReader-API.-Image-to-Word/master/resource/abbyy2.png" />
 </p>
 
 
